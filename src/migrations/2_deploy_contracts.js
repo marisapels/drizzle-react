@@ -1,5 +1,5 @@
-const MyStringStore = artifacts.require("MyStringStore");
+const RatRace = artifacts.require("RatRace");
 
 module.exports = function(deployer) {
-  deployer.deploy(MyStringStore);
+  deployer.deploy(RatRace);
 };

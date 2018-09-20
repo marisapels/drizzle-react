@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import ReadString from "./ReadString";
-import SetString from "./SetString";
+import ReadString from "../modules/string/ReadString";
+import SetString from "../modules/string/SetString";
 import './App.css';
 
 class App extends Component {
